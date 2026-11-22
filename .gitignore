@@ -1,0 +1,4 @@
+*.pem
+inventory.ini
+userdata.sh
+*.retry
